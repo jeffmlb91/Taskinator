@@ -12,5 +12,5 @@ var createTaskHandler = function () {
   taskToDoEl.appendChild(listItemEl);
 };
 
-// Create a new task, style the new task, add text and append this element to the task list. EVENT LISTENER
+// Create a new task, style the new task, add text and append this element to the task list. EVENT LISTENER/
 buttonEL.addEventListener("click", createTaskHandler);
